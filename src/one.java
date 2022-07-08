@@ -1,6 +1,6 @@
 public class one {
 
-    private String name;
+    private String hkjghjgj;
 
 
 
